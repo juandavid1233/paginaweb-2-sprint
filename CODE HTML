@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TiendaOnline</title>
+    <link rel="stylesheet" href="3131.css">
+</head>
+
+<body>
+
+
+    <div class="img-fondo">
+
+        <div class="velo-negro">
+
+            <!-------------------------------------------------->
+            <!--ESTE ES LA CABECERA DE NUESTRO DOCUMENTO INDEX-->
+            <header class="header">
+                <a href="/index.html">
+
+                    
+                </a>
+
+
+            </header>
+            <!---FIN DEL HEADER-->
+
+            <nav>
+                <a href="index.html"></a>
+            
+            </nav>
+
+
+            
+                <h1 class="nustros-productos">Nustros Productos</h1>
+
+                <!--INICIO PRODUCTOS-->
+                <div class="productos">
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="aa.jpg" alt="">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">CLASICA NEGRA</p>
+                            <p class="producto-precio">$30.000</p>
+                        </div>
+
+
+
+                    </div>
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="ee.jpg" alt="poloche negro">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">CLASICA VERDE</p>
+                            <p class="producto-precio">$25.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="rr.jpg" alt="poloche rojo">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">CLASICA AGUAMARINA</p>
+                            <p class="producto-precio">$25.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="ww.JPG" alt="CASUAL ROJA">
+                           </p>
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">CASUAL ROJA</p>
+                            <p class="producto-precio">$45.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="ff.jpg" alt="poloche rojo">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">CASUAL AZUL</p>
+                            <p class="producto-precio">$40.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="nn.jpg" alt="poloche rojo">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">CASUAL NEGRA</p>
+                            <p class="producto-precio">$50.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="xx.jpg" alt="poloche rojo">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">BUSO SIN CAPOTA NEGRO</p>
+                            <p class="producto-precio">$85.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="TT.jpg" alt="poloche rojo">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">BUSO SIN CAPOTA ROJO</p>
+                            <p class="producto-precio">$80.000</p>
+                        </div>
+
+
+
+                    </div>
+
+                    <!---INICIO PRODUCTO-->
+                    <div class="producto">
+
+
+                        <div class="producto-blanco">
+                            <img src="GG.jpg" alt="poloche rojo">
+
+                        </div>
+
+                        <div class="producto-informacion">
+                            <p class="producto-nombre">BUSO SIN CAPOTA BLANCO</p>
+                            <p class="producto-precio">$80.000</p>
+                        </div>
+
+
+
+
+                        
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
+            </main>
+            <!--FIN DEL CONTENIDO PRINCIPAL-->
+
+
+
+        </div>
+
+
+    </div>
+
+
+    <footer class="footer">
+        <a class="enlace-footer" href="#">
+            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 226 226"
+                style=" fill:#000000;">
+                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0"
+                    font-family="none" font-weight="none" font-size="none" text-anchor="none"
+                    style="mix-blend-mode: normal">
+                    <path d="M0,226v-226h226v226z" fill="#000000"></path>
+                    <g fill="#ffffff">
+                        <path
+                        </path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+
+        <a class="enlace-footer" href="#">
+            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="60" height="60" viewBox="0 0 172 172"
+                style=" fill:#000000;">
+                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0"
+                    font-family="none" font-weight="none" font-size="none" text-anchor="none"
+                    style="mix-blend-mode: normal">
+                    <path d="M0,172v-172h172v172z" fill="#000000"></path>
+                    <g fill="#ffffff">
+                        <path
+                        </path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+        <a class="enlace-footer" href="#">
+            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 172 172"
+                style=" fill:#000000;">
+                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0"
+                    font-family="none" font-weight="none" font-size="none" text-anchor="none"
+                    style="mix-blend-mode: normal">
+                    <path d="M0,172v-172h172v172z" fill="#000000"></path>
+                    <g fill="#ffffff">
+                        <path
+                        </path>
+                    </g>
+                </g>
+            </svg>
+        </a>
+
+
+    </footer>
+
+
+
+</body>
+
+</html>
+
+#JUAN MARMOLEJO. OCTAVIO MONRROY. JUAN RAMIREZ.MARIA HIDALGO.DANIEL HERNANDEZ
